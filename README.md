@@ -1,2 +1,2 @@
 # easy-task
-a framework helps you transfrom synchronous api to asynchronous one easily
+a framework helps you easily transfrom synchronous api to asynchronous one.
